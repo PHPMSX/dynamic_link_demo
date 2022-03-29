@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Applications/HoangPhuc/projects/MySource/dynamic_link_demo/build/path_provider_android/intermediates/res/merged/debug/values-mr/values-mr.xml",
+            "map": [
+                {
+                    "source": "/Users/HoangPhuc/.gradle/caches/transforms-2/files-2.1/9ad59b63ab86ca3cd30344f341839ef6/core-1.1.0/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Applications/HoangPhuc/projects/MySource/dynamic_link_demo/build/path_provider_android/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
+            "map": [
+                {
+                    "source": "/Users/HoangPhuc/.gradle/caches/transforms-2/files-2.1/9ad59b63ab86ca3cd30344f341839ef6/core-1.1.0/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

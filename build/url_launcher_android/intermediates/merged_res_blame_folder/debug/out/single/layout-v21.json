@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Applications/HoangPhuc/projects/MySource/dynamic_link_demo/build/url_launcher_android/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/HoangPhuc/.gradle/caches/transforms-2/files-2.1/9ad59b63ab86ca3cd30344f341839ef6/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Applications/HoangPhuc/projects/MySource/dynamic_link_demo/build/url_launcher_android/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/HoangPhuc/.gradle/caches/transforms-2/files-2.1/9ad59b63ab86ca3cd30344f341839ef6/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Applications/HoangPhuc/projects/MySource/dynamic_link_demo/build/url_launcher_android/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/HoangPhuc/.gradle/caches/transforms-2/files-2.1/9ad59b63ab86ca3cd30344f341839ef6/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Applications/HoangPhuc/projects/MySource/dynamic_link_demo/build/url_launcher_android/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/HoangPhuc/.gradle/caches/transforms-2/files-2.1/9ad59b63ab86ca3cd30344f341839ef6/core-1.1.0/res/layout-v21/notification_action.xml"
+    }
+]

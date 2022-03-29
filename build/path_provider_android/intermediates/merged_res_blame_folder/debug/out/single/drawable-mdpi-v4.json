@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Applications/HoangPhuc/projects/MySource/dynamic_link_demo/build/path_provider_android/intermediates/res/merged/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/HoangPhuc/.gradle/caches/transforms-2/files-2.1/9ad59b63ab86ca3cd30344f341839ef6/core-1.1.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Applications/HoangPhuc/projects/MySource/dynamic_link_demo/build/path_provider_android/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/HoangPhuc/.gradle/caches/transforms-2/files-2.1/9ad59b63ab86ca3cd30344f341839ef6/core-1.1.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Applications/HoangPhuc/projects/MySource/dynamic_link_demo/build/path_provider_android/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/HoangPhuc/.gradle/caches/transforms-2/files-2.1/9ad59b63ab86ca3cd30344f341839ef6/core-1.1.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Applications/HoangPhuc/projects/MySource/dynamic_link_demo/build/path_provider_android/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/HoangPhuc/.gradle/caches/transforms-2/files-2.1/9ad59b63ab86ca3cd30344f341839ef6/core-1.1.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Applications/HoangPhuc/projects/MySource/dynamic_link_demo/build/path_provider_android/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/HoangPhuc/.gradle/caches/transforms-2/files-2.1/9ad59b63ab86ca3cd30344f341839ef6/core-1.1.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

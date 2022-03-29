@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Applications/HoangPhuc/projects/MySource/dynamic_link_demo/build/url_launcher_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/HoangPhuc/.gradle/caches/transforms-2/files-2.1/9ad59b63ab86ca3cd30344f341839ef6/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Applications/HoangPhuc/projects/MySource/dynamic_link_demo/build/url_launcher_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/HoangPhuc/.gradle/caches/transforms-2/files-2.1/9ad59b63ab86ca3cd30344f341839ef6/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Applications/HoangPhuc/projects/MySource/dynamic_link_demo/build/url_launcher_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/HoangPhuc/.gradle/caches/transforms-2/files-2.1/9ad59b63ab86ca3cd30344f341839ef6/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Applications/HoangPhuc/projects/MySource/dynamic_link_demo/build/url_launcher_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/HoangPhuc/.gradle/caches/transforms-2/files-2.1/9ad59b63ab86ca3cd30344f341839ef6/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    }
+]

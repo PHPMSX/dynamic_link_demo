@@ -1,0 +1,4 @@
+#Tue Mar 29 09:36:44 ICT 2022
+base.0=/Applications/HoangPhuc/projects/MySource/dynamic_link_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
